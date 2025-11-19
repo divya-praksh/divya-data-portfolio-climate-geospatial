@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+geopandas
+numpy
+matplotlib
+folium
+shapely
