@@ -32,7 +32,7 @@ Folder: `/climate-crop-analysis`
 
 ### ⭐ 3. Power BI Dashboards  
 *Student internship dashboards • Attrition & Headcount trends*  
-Screenshots + explanation of DAX logic and insights.  
+Explanation of DAX logic and insights.  
 Folder: `/powerbi-dashboards`
 
 ---
